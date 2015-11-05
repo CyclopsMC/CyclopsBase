@@ -1,0 +1,17 @@
+[
+{
+  "modid": "todo",
+  "name": "Todo",
+  "description": "todo",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "assets/evilcraft/textures/logo.png",
+  "url": "https://github.com/CyclopsMC/Todo",
+  "updateUrl": "todo",
+  "authorList": [ "rubensworks (aka kroeserr)" ],
+  "credits": "kroeserr",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
